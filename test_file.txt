@@ -1,0 +1,4 @@
+This is an experimental file to practice git commands. The file is temporary.
+
+This sentence is extra information that is added to the file.
+
